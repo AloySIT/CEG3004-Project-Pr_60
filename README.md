@@ -140,11 +140,3 @@ gdown
 | `Pr_60_predictions.csv` | Predicted labels for all submission clips |
 
 The CSV has two columns: `clip_id` and `predicted_label`.
-
----
-
-## Important Rules
-
-- Do NOT modify submission clip IDs
-- Do NOT alter code outside of the marked TODO sections
-- Late submissions will not be evaluated
